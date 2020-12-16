@@ -1,0 +1,313 @@
+exports[`test Renders component 1`] = `
+<svg
+  height={500}
+  width={500}>
+  <g
+    transform="translate(70, 70)">
+    <rect
+      fill="transparent"
+      height={360}
+      transform="translate(0, 0)"
+      width={360} />
+    <g
+      transform="translate(180, 180)">
+      <g>
+        <circle
+          fill="#cdcdcd"
+          fillOpacity={0.1}
+          r={180}
+          stroke="#cdcdcd" />
+        <circle
+          fill="#cdcdcd"
+          fillOpacity={0.1}
+          r={144}
+          stroke="#cdcdcd" />
+        <circle
+          fill="#cdcdcd"
+          fillOpacity={0.1}
+          r={108}
+          stroke="#cdcdcd" />
+        <circle
+          fill="#cdcdcd"
+          fillOpacity={0.1}
+          r={72}
+          stroke="#cdcdcd" />
+        <circle
+          fill="#cdcdcd"
+          fillOpacity={0.1}
+          r={36}
+          stroke="#cdcdcd" />
+        <text
+          dx="0.4em"
+          dy="0.4em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="left"
+          x={0}
+          y={-180}>
+          10
+        </text>
+        <text
+          dx="0.4em"
+          dy="0.4em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="left"
+          x={0}
+          y={-144}>
+          8
+        </text>
+        <text
+          dx="0.4em"
+          dy="0.4em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="left"
+          x={0}
+          y={-108}>
+          6
+        </text>
+        <text
+          dx="0.4em"
+          dy="0.4em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="left"
+          x={0}
+          y={-72}>
+          4
+        </text>
+        <text
+          dx="0.4em"
+          dy="0.4em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="left"
+          x={0}
+          y={-36}>
+          2
+        </text>
+      </g>
+      <g>
+        <line
+          stroke="#cdcdcd"
+          strokeWidth={2}
+          x1={0}
+          x2={1.2124003311558799e-14}
+          y1={0}
+          y2={-198.00000000000003} />
+        <text
+          dy="0.35em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="middle"
+          x={1.3226185430791415e-14}
+          y={-216}>
+          Resilience
+        </text>
+      </g>
+      <g>
+        <line
+          stroke="#cdcdcd"
+          strokeWidth={2}
+          x1={0}
+          x2={171.47302994931886}
+          y1={0}
+          y2={-99.00000000000001} />
+        <text
+          dy="0.35em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="middle"
+          x={187.06148721743872}
+          y={-108}>
+          Strength
+        </text>
+      </g>
+      <g>
+        <line
+          stroke="#cdcdcd"
+          strokeWidth={2}
+          x1={0}
+          x2={171.47302994931889}
+          y1={0}
+          y2={98.99999999999999} />
+        <text
+          dy="0.35em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="middle"
+          x={187.06148721743875}
+          y={107.99999999999996}>
+          Adaptability
+        </text>
+      </g>
+      <g>
+        <line
+          stroke="#cdcdcd"
+          strokeWidth={2}
+          x1={0}
+          x2={1.2124003311558799e-14}
+          y1={0}
+          y2={198.00000000000003} />
+        <text
+          dy="0.35em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="middle"
+          x={1.3226185430791415e-14}
+          y={216}>
+          Creativity
+        </text>
+      </g>
+      <g>
+        <line
+          stroke="#cdcdcd"
+          strokeWidth={2}
+          x1={0}
+          x2={-171.47302994931886}
+          y1={0}
+          y2={99.00000000000009} />
+        <text
+          dy="0.35em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="middle"
+          x={-187.06148721743872}
+          y={108.00000000000007}>
+          Open to Change
+        </text>
+      </g>
+      <g>
+        <line
+          stroke="#cdcdcd"
+          strokeWidth={2}
+          x1={0}
+          x2={-171.47302994931894}
+          y1={0}
+          y2={-98.99999999999989} />
+        <text
+          dy="0.35em"
+          fill="black"
+          fontFamily="sans-serif"
+          fontSize={10}
+          textAnchor="middle"
+          x={-187.06148721743884}
+          y={-107.99999999999987}>
+          Confidence
+        </text>
+      </g>
+      <g>
+        <path
+          d="M93.53076784409367,-53.999958023078605C111.71730239869534,-31.49995988525594,124.70767071342019,47.999995823089925,109.11920732761,62.999988826936C93.53074394179981,77.99998183078208,38.97112931722363,34.49999388141555,-0.000012470767438298165,35.99999999999784C-38.9711542587585,37.50000611858013,-122.10956963346993,79.50002617240412,-124.70764340033641,72.00002553842972C-127.30571716720289,64.50002490445533,-36.37306230535573,15.00000045255647,-15.588455071966331,-9.000003803848482C5.19615216142307,-33.000008060253435,-18.186537152676667,-64.50000763012831,0,-72C18.186537152676667,-79.49999236987169,75.34423328949201,-76.49995616090126,93.53076784409367,-53.999958023078605"
+          fill="#1f77b4"
+          fillOpacity={0.2}
+          stroke="#1f77b4"
+          strokeOpacity={0.7} />
+        <circle
+          cx={4.408728476930472e-15}
+          cy={-72}
+          fill="#1f77b4"
+          opacity={0.7}
+          r={3}
+          stroke="#1f77b4" />
+        <circle
+          cx={93.53074360871936}
+          cy={-54}
+          fill="#1f77b4"
+          opacity={0.7}
+          r={3}
+          stroke="#1f77b4" />
+        <circle
+          cx={109.11920087683926}
+          cy={62.99999999999997}
+          fill="#1f77b4"
+          opacity={0.7}
+          r={3}
+          stroke="#1f77b4" />
+        <circle
+          cx={2.204364238465236e-15}
+          cy={36}
+          fill="#1f77b4"
+          opacity={0.7}
+          r={3}
+          stroke="#1f77b4" />
+        <circle
+          cx={-124.70765814495914}
+          cy={72.00000000000004}
+          fill="#1f77b4"
+          opacity={0.7}
+          r={3}
+          stroke="#1f77b4" />
+        <circle
+          cx={-15.588457268119903}
+          cy={-8.99999999999999}
+          fill="#1f77b4"
+          opacity={0.7}
+          r={3}
+          stroke="#1f77b4" />
+      </g>
+      <g>
+        <path
+          d="M124.70769045879157,-71.99994403077147C140.29614864845016,-32.99994562692348,114.31536837133918,29.999999751293476,93.53074913795143,53.999990423088C72.74612990456369,77.99998109488253,20.78458505647104,77.99999733974244,-0.00002494153487659633,71.99999999999568C-20.784634939540798,66.00000266024892,-31.17691500700658,30.00000638460671,-31.176910850084102,18.00000638460743C-31.176906693161623,6.000006384608152,-5.19615180834735,33.00000106410124,0,0C5.19615180834735,-33.00000106410124,-20.78461507646526,-168.00000932820475,0,-180C20.78461507646526,-191.99999067179525,109.11923226913301,-110.99994243461947,124.70769045879157,-71.99994403077147"
+          fill="#ff7f0e"
+          fillOpacity={0.2}
+          stroke="#ff7f0e"
+          strokeOpacity={0.7} />
+        <circle
+          cx={1.1021821192326179e-14}
+          cy={-180}
+          fill="#ff7f0e"
+          opacity={0.7}
+          r={3}
+          stroke="#ff7f0e" />
+        <circle
+          cx={124.70765814495915}
+          cy={-72}
+          fill="#ff7f0e"
+          opacity={0.7}
+          r={3}
+          stroke="#ff7f0e" />
+        <circle
+          cx={93.53074360871938}
+          cy={53.99999999999998}
+          fill="#ff7f0e"
+          opacity={0.7}
+          r={3}
+          stroke="#ff7f0e" />
+        <circle
+          cx={4.408728476930472e-15}
+          cy={72}
+          fill="#ff7f0e"
+          opacity={0.7}
+          r={3}
+          stroke="#ff7f0e" />
+        <circle
+          cx={-31.176914536239785}
+          cy={18.00000000000001}
+          fill="#ff7f0e"
+          opacity={0.7}
+          r={3}
+          stroke="#ff7f0e" />
+        <circle
+          cx={-0}
+          cy={-0}
+          fill="#ff7f0e"
+          opacity={0.7}
+          r={3}
+          stroke="#ff7f0e" />
+      </g>
+    </g>
+  </g>
+</svg>
+`;
